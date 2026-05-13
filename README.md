@@ -57,7 +57,7 @@ I'm a **Junior Data Science student** (currently in my 4th semester) pursuing my
   <a href="https://www.linkedin.com/in/muhammad-usman-157841269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/dominator959" target="_blank">
+  <a href="https://twitter.com/cars_pk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>

@@ -67,12 +67,16 @@ currently_learning = ["Machine Learning", "NLP",
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominator959&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominator959&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dominator959&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominator959&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominator959&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=dominator959&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dominator959&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 
 ---

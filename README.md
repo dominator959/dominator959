@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<!-- TODO: Replace YOUR_USERNAME with your actual Kaggle username and uncomment -->
-<!-- <a href="https://www.kaggle.com/YOUR_USERNAME">
+
+<a href="https://www.kaggle.com/muhammadusman959">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
-&nbsp; -->
-<!-- TODO: Replace your.email@gmail.com with your real email and uncomment -->
-<!-- <a href="mailto:your.email@gmail.com">
+&nbsp;
+
+<a href="muhammadusman959@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp; -->
@@ -265,13 +265,15 @@ I'm a **Data Science student** with hands-on experience building end-to-end ML p
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<!-- <a href=muhammadusman959@outlook.com">
+
+<a href="muhamadusman959@outlook.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp; -->
-<!-- <a href="https://www.kaggle.com/muhammadusman959">
+&nbsp;
+
+<a href="https://www.kaggle.com/muhammadusman959">
   <img src="https://img.shields.io/badge/Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a> -->
+</a>
 
 <br/><br/>
 

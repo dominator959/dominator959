@@ -6,16 +6,7 @@
 
 <div align="center">
 
-```
-██████╗  █████╗ ████████╗ █████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
-██║  ██║███████║   ██║   ███████║
-██║  ██║██╔══██║   ██║   ██╔══██║
-██████╔╝██║  ██║   ██║   ██║  ██║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-**`[ DATA SCIENCE · MACHINE LEARNING · AUTOMATION ]`**
+<img src="./header.svg" width="800" alt="Muhammad Usman — Data Science · Machine Learning · Automation"/>
 
 </div>
 
@@ -113,22 +104,6 @@ $ grep -r "signal" ./values/
 > **Ship when it's ready.**
 > Not when it's done — when it's ready.
 > There's a difference.
-
-<br>
-
----
-
-<br>
-
-```
-$ tail -f ./github-activity.stream
-```
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dominator959&theme=dark&hide_border=true&background=0D1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
-
-</div>
 
 <br>
 
